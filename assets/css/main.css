@@ -2188,12 +2188,12 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 8%;
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 100%;
+				border-radius: 800%;
 				display: block;
 				width: 100%;
 			}
@@ -2202,11 +2202,17 @@ input, select, textarea {
 			display: block;
 			height: 20em;
 			border-radius: 0;
+			
+			/* padding-top: 10px;
+    		margin-left: auto;
+    		margin-right: auto;
+    		/* Block display (more on this later) */
+    		
 		}
 
-			.image.main img {
+			/* .image.main img {
 				border-radius: 0;
-			}
+			} */
 
 /* List */
 
