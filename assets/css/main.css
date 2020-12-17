@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #0d77c7 !important;
+			color: #5ed0b1 !important;
 		}
 
 	strong, b {
@@ -1790,7 +1790,7 @@ input, select, textarea {
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #5360f7;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -2053,6 +2053,7 @@ input, select, textarea {
 		border: 0;
 		display: block;
 		position: relative;
+		
 	}
 
 		.image[data-position] img {
@@ -2160,7 +2161,7 @@ input, select, textarea {
 		}
 
 		.image img {
-			border-radius: 5px;
+			border-radius: 0px;
 			display: block;
 		}
 
@@ -2188,7 +2189,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 8%;
+			border-radius: 0%;
 			overflow: hidden;
 		}
 
@@ -2200,8 +2201,9 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			height: 40em;
+			height: 45em;
 			border-radius: 0;
+			padding-top: 20px;
 			
 			
 			/* padding-top: 10px;
@@ -2213,9 +2215,10 @@ input, select, textarea {
 
 			.image.main img {
 				border-radius: 0;
-				width: auto;
-				height: ;
-				padding-bottom: 0px;
+				width: 50%;
+				margin-left: auto;
+				margin-right: auto;
+				
 			}
 
 /* List */
@@ -2711,7 +2714,7 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #5360f7;
-		color: #d2f2e9;
+		color: #ffffff;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2782,7 +2785,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #fafbfe;
 				}
 
 		#header > nav {
@@ -2799,7 +2802,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 2px #5360f7;
 					display: block;
 					padding: 0;
 				}
