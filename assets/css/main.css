@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #5ed0b1 !important;
+			color: rgb(95, 176, 14)  !important;
 		}
 
 	strong, b {
@@ -132,6 +132,8 @@ input, select, textarea {
 	p {
 		margin: 0 0 2.25em 0;
 	}
+
+	
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #4c7066;
@@ -1759,9 +1761,10 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #fff;
+		color: #fafafa;
 		position: relative;
 		margin: 0 0 1.6875em 0;
+		
 	}
 
 	header h2 + p {
@@ -1783,6 +1786,10 @@ input, select, textarea {
 		margin-top: -0.25em;
 		line-height: 1.5em;
 	}
+
+	/* #american {
+		border-color: greenyellow;
+	} */
 
 	header.major h2 {
 		color: #475f9b;
@@ -2201,9 +2208,9 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			height: 45em;
+			height: 20em;
 			border-radius: 0;
-			padding-top: 20px;
+			padding-top: 50px;
 			
 			
 			/* padding-top: 10px;
@@ -2215,7 +2222,7 @@ input, select, textarea {
 
 			.image.main img {
 				border-radius: 0;
-				width: 50%;
+				width: auto;
 				margin-left: auto;
 				margin-right: auto;
 				
