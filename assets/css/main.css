@@ -1855,7 +1855,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #475f9b;
+			border-color: #8791b4;
 		}
 
 	select {
@@ -2422,7 +2422,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #475f9b;
+				background: #8791b4;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
