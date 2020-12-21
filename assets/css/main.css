@@ -2887,6 +2887,11 @@ input, select, textarea {
 					color: inherit;
 				}
 
+				/* #footer {
+					margin-left: auto;
+					margin-right: auto; */
+				
+
 /* XLarge */
 
 	@media screen and (max-width: 1680px) {
