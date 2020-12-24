@@ -117,7 +117,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #777;
+		color: red;
 		font-weight: 700;
 	}
 
