@@ -45,6 +45,7 @@ blockquote, q {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+
 }
 
 body {
@@ -179,6 +180,7 @@ input, select, textarea {
 		font-size: 0.8em;
 		position: relative;
 		top: -0.5em;
+		color: red;
 	}
 
 	hr {
@@ -1720,6 +1722,7 @@ input, select, textarea {
 
 		.container.medium {
 			width: 33.75em;
+			/* margin: 0 auto; */
 		}
 
 		.container.large {
@@ -1787,7 +1790,7 @@ input, select, textarea {
 
 	header.major h2 {
 		color: #475f9b;
-		font-size: 3.5em;
+		font-size: 2.75em;
 	}
 
 		header.major h2 + p {
@@ -2174,8 +2177,9 @@ input, select, textarea {
 
 		.image.right {
 			float: right;
-			margin: 0 0 2em 2.5em;
-			top: 0.25em;
+			margin: -85px 0 2em 2.5em;
+			top: 0.05em;
+			/* size: 250px x 250px; */
 		}
 
 		.image.fit {
@@ -2187,24 +2191,26 @@ input, select, textarea {
 			.image.fit img {
 				display: block;
 				width: 100%;
+				height: auto;
 			}
 
 		.image.avatar {
-			border-radius: 0%;
+			border-radius: 0;
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 0%;
+				border-radius: 100%;
 				display: block;
 				width: 100%;
 			}
 
 		.image.main {
 			display: block;
-			height: 20em;
+			/* height: 10em; */
 			border-radius: 0;
-			padding-top: 50px;
+			/* padding: 20px; */
+			
 			
 			
 			
@@ -2213,10 +2219,13 @@ input, select, textarea {
 		}
 
 			.image.main img {
+				display: block;
 				border-radius: 0;
-				width: auto;
-				margin-left: auto;
-				margin-right: auto;
+				width: 100%;
+				/* margin-left: auto;
+				margin-right: auto; */
+				height: auto;
+				/* margin-bottom: 40px; */
 				
 			}
 			
@@ -2975,7 +2984,7 @@ input, select, textarea {
 				}
 
 			.image.main {
-				height: 20em;
+				height: 15em;
 			}
 
 		/* Header */
