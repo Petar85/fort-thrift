@@ -1,1 +1,2 @@
-Fort Lewis Thrift Shop is my first porfessional project. I used HTML, CSS and JavaScript for creating this basic website. I got a phone call from the store's manager needing simple website with couple forms, couple links, some photos, text, etc. It was just after the bootcamp so I accepted challenge still fresh out of kitchen! It was fun working on this front-end project, learning new stuff and establishing what is learned so far. Also big task and honour to help our military community!
+First professional project done for Fort Lewis Thrift Shop, with accent on simplicity and usefullness.
+Technology used in this project: HTML, CSS, SCSS, JavaScript.
