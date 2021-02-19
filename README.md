@@ -5,3 +5,5 @@ Technology used:
                -SCSS
                -JavaScript
 
+The biggest issue encountered 
+
