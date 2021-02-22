@@ -13,7 +13,7 @@ The biggest issue encountered during this project was not creating it but deploy
 Reading docs and googling is what got me unstuck and led toward final product.
 
 # Screenshot
-![fort-thrift screenshot](./images/fort-thrift screenshot.png)
+![fort-thrift screenshot](https://github.com/Petar85/fort-thrift/images/fort-thrift screenshot.png)
 
 
 
