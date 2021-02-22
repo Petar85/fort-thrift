@@ -12,7 +12,8 @@ Technology used:
 The biggest issue encountered during this project was not creating it but deploying on Google Cloud Platform.
 Reading docs and googling is what got me unstuck and led toward final product.
 
-# Screenshot(src=images/fort-thrift screen shot.png)
+# Screenshot
+(src=./images/fort-thrift screen shot.png)
 
 
 
