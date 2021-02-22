@@ -1,4 +1,4 @@
-# Overview
+# fort-thrift
 
 First professional project done for Fort Lewis Thrift Shop, with accent on simplicity and usefullness.
 
@@ -13,7 +13,7 @@ The biggest issue encountered during this project was not creating it but deploy
 Reading docs and googling is what got me unstuck and led toward final product.
 
 # Screenshot
-(src=./images/fort-thrift screen shot.png)
+![fort-thrift](./images/fort-thrift screen shot.png)
 
 
 
