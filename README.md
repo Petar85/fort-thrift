@@ -5,7 +5,7 @@ First professional project done for Fort Lewis Thrift Shop, with accent on simpl
 The biggest issue encountered during this project was not creating it but deploying on Google Cloud Platform.
 Reading docs and googling is what got me unstuck and led toward final product.
 
-# Technology Used:
+# Technology Used
 
 * HTML
 * CSS
@@ -17,3 +17,4 @@ Reading docs and googling is what got me unstuck and led toward final product.
 Link to deployed site:https://petar85.github.io/fort-thrift/
 
 
+![fort-thrift](./images/screenshot.png)
