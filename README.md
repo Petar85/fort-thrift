@@ -18,5 +18,6 @@ Reading docs and googling is what got me unstuck and led toward final product.
 
 # Project
 
-Link to deployed site:https://petar85.github.io/fort-thrift/
+Link to deployed site: https://petar85.github.io/fort-thrift/
+Link to GitHub repo: https://github.com/Petar85/fort-thrift
 
